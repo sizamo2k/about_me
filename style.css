@@ -1,0 +1,55 @@
+/* comment like this */
+body{
+    background-color: black;
+}
+
+#container {
+    color:black;
+    background-color: white;
+    text-align: center;
+    width:50%;
+    /* changed top margin comment
+    and padding */
+    margin-top: 20px auto;
+    padding: 20px;
+
+    font-family: 'Asap', sans-serif;
+
+}
+
+.left-col{
+    float:left;
+}
+
+.right-col{
+    float:right;
+}
+
+.clearFix{
+    clear:both;
+}
+
+h1 {
+    color: #A64AC9;
+}
+
+.github{
+    color: #A64AC9;
+    text-decoration: none;
+    padding:10px;
+    border-style:solid;
+    border-radius:10px;
+    border-width:2px;
+}
+
+img{
+    width:100px;
+}
+
+.info{
+    text-align: left;
+}
+
+a{
+    color: #A64AC9
+}
